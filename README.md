@@ -1,30 +1,185 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Panchariya</h1>
-<h3 align="center">Unlocking the Data World: From Storage to Storytelling</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushi6925&label=Profile%20views&color=0e75b6&style=flat" alt="rushi6925" /> </p>
+<h3 align="center">📊 Data Analyst | SQL | Python | Data Visualization</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushi6925" alt="rushi6925" /></a> </p>
-
-- 🔭 I’m currently working on [Retail_banking](https://github.com/Rushi6925/Retail-bank-SQL-analysis-.git)
-
-- 🌱 I’m currently learning **Data Engineering**
-
-- 💬 Ask me about **SQL and python**
-
-- 📫 How to reach me **rushikeshpanchariya6925@gmail.com**
-
-- ⚡ Fun fact **I Hate Coding , still Grinding :)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rushikesh panchariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh panchariya" height="30" width="40" /></a>
-<a href="https://instagram.com/krishna_panchariyaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishna_panchariyaa" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/DzH4QyRgqM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/DzH4QyRgqM" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Rushi6925">
+    <img src="https://komarev.com/ghpvc/?username=Rushi6925&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/Rushi6925">
+    <img src="https://img.shields.io/github/followers/Rushi6925?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/Rushi6925?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Rushi6925?label=Stars&style=for-the-badge" alt="GitHub Stars"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushi6925&show_icons=true&locale=en&layout=compact" alt="rushi6925" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushi6925&show_icons=true&locale=en" alt="rushi6925" /></p>
+## 👨‍💻 About Me
+
+🎓 B.Tech Computer Science student
+
+📊 Currently focused on **Data Analytics & Data Engineering**
+
+💻 Working with **SQL, Python, Pandas, Excel & Tableau**
+
+🔍 Interested in turning raw data into useful insights
+
+🚀 Building practical projects to strengthen my data skills
+
+⚡ Fun fact: **I hate coding, but I'm still grinding :)**
+
+---
+
+## 🛠️ Tech Stack
+
+### 📊 Data & Analytics
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
+</p>
+
+### 📈 Visualization & Productivity
+
+<p align="left">
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="45" height="45" alt="Excel"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45" alt="Power BI"/>
+</p>
+
+### 🔧 Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏦 Retail Banking SQL Analysis
+
+SQL-based analysis project exploring retail banking data, customer behavior, transactions and business insights.
+
+**Tech:** MySQL • SQL • Data Analysis
+
+🔗 [View Project](https://github.com/Rushi6925/Retail-bank-SQL-analysis-)
+
+</td>
+
+<td width="50%">
+
+### 📊 Data Analytics Projects
+
+A collection of projects involving data cleaning, SQL analysis, Python/Pandas and visualization.
+
+**Tech:** Python • Pandas • SQL • Excel • Tableau
+
+🔗 [View Repositories](https://github.com/Rushi6925?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Currently Learning
+
+```text
+SQL              ████████████████████  Advanced
+Python           ████████████████░░░░  Intermediate
+Pandas / NumPy   ███████████████░░░░░  Intermediate
+Excel            █████████████████░░░  Intermediate
+Tableau          ████████████░░░░░░░░  Learning
+Power BI         ██████████░░░░░░░░░░  Learning
+Data Engineering ████████░░░░░░░░░░░░  Learning
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rushi6925&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushi6925&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rushi6925&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rushi6925&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rushi6925&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📌 Featured Project
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rushi6925&repo=Retail-bank-SQL-analysis-&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/rushikesh-panchariya/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.instagram.com/krishna_panchariyaa/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram"/>
+</a>
+
+<a href="mailto:rushikeshpanchariya6925@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt="Email"/>
+</a>
+
+</p>
+
+---
+
+## 💡 My Goal
+
+> **Learn → Build → Analyze → Share → Improve**
+
+I'm continuously building projects and improving my skills in **SQL, Python, Data Analytics and Data Engineering**.
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
